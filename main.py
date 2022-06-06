@@ -38,6 +38,7 @@ try:
     field.send_keys(calc(x))
     button1 = browser.find_element(By.CSS_SELECTOR,"button[id='solve']")
     button1.click()
+    print('ye')aaasss
 
 
 
